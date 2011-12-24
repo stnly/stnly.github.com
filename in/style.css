@@ -1,0 +1,18 @@
+
+body
+{
+	background-color:white;
+	color: #888; 
+	font-family: 'Inconsolata', Helvetica, "Helvetica Neue", Arial, sans-serif; 
+	font-weight: bold; 
+	font-size: 1em; 
+	line-height: 20px; 
+	margin: 50px 15% 1.5em; -webkit-font-smoothing: antialiased;  
+}
+	
+a { color: #333; font-weight: bold; text-decoration: none; }
+a:hover { color: #900000; }
+#main { max-width: 23.5em; }
+#small { font-size: 10px; -webkit-font-smoothing: antialiased; }
+#text { font-size: 0.9em; -webkit-font-smoothing: antialiased; }
+#large { font-size: 30px; -webkit-font-smoothing: antialiased; }
