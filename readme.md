@@ -5,4 +5,4 @@ A simple and minimalistic personal landing page that I use.
 
 The Uncopyright License
 
-0. Do whatever the hell you like.
+0.Do whatever the hell you like.
