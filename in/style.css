@@ -5,7 +5,7 @@ body
 	color: #888; 
 	font-family: 'Inconsolata', Helvetica, "Helvetica Neue", Arial, sans-serif; 
 	font-weight: bold; 
-	font-size: 1em; 
+	font-size: 1.2em; 
 	line-height: 20px; 
 	margin: 50px 15% 1.5em; -webkit-font-smoothing: antialiased;  
 }
@@ -14,7 +14,7 @@ h1 { font-size: 1.2em; line-height: 20px; font-style: italic; -webkit-font-smoot
 a { color: #333; font-weight: bold; text-decoration: none; }
 a:hover { color: #900000; }
 #main { max-width: 23.5em; }
-#small { font-size: 10px; -webkit-font-smoothing: antialiased; }
+#small { font-size: 0.7em; -webkit-font-smoothing: antialiased; }
 #text 
 { 
 	font-size: 0.9em; -webkit-font-smoothing: antialiased; 
